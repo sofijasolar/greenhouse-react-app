@@ -1,6 +1,0 @@
-GREENHOUSE-REACT-App
-
-1. run 'npm i' in the project directory to install the necessary node modules
-
-2. run 'npm start' to start up the project running. 
-    - This will open the react app 
