@@ -21,8 +21,7 @@ REACT_APP_MQTT_PASSWORD="mqtt_password"
 REACT_APP_MQTT_SERVER="url to mqtt web sockets"
 ```
 
->[!INFO]Make sure to have your MQTT server and your API running
-> - This is where you gather data from
+>[!NOTE]Make sure to have your MQTT server and your API running (this is where you gather data from)
 
 ### 3. Run the server
 ```npm start```
