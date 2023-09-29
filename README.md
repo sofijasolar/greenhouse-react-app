@@ -11,7 +11,7 @@ A website that makes it possible for users to monitor their greenhouse (with rea
 
 ### 2. Setup .env file
 
-In order to run server, you have to setup a MongoDB and provide a login url through .env Create .env file in root directory:
+To run the server, you need to set up environment variables in a .env file in the root directory:
 ```touch .env```
 
 Add the following environemnt variables to .env:
