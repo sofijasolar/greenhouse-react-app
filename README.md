@@ -6,10 +6,10 @@ A website that makes it possible for users to monitor their greenhouse (with rea
 
 ##  Installation
 
-1. Install node_modules
+### 1. Install node_modules
 ```npm install```
 
-2. Setup .env file
+### 2. Setup .env file
 
 In order to run server, you have to setup a MongoDB and provide a login url through .env Create .env file in root directory:
 ```touch .env```
@@ -21,8 +21,8 @@ REACT_APP_MQTT_PASSWORD="mqtt_password"
 REACT_APP_MQTT_SERVER="url to mqtt web sockets"
 ```
 
-3. Make sure to have your MQTT server and your API running
-- This is where you gather data from
+>[!INFO]Make sure to have your MQTT server and your API running
+> - This is where you gather data from
 
-4. Run the server
+### 3. Run the server
 ```npm start```
